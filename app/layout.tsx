@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Workflow_builder',
+  description: 'Created by Noah Ojile',
+  generator: 'Noah Ojile',
 }
 
 export default function RootLayout({
